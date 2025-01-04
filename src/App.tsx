@@ -28,7 +28,7 @@ function App() {
   
   return (
     <section className="h-dvh w-full flex justify-center bg-gray-50 relative overflow-hidden">
-      {/* <Credits /> */}
+      <Credits />
       <div className="absolute left-0 top-20 lg:top-8 w-full flex justify-center">
         <span
           onClick={handleClick} 
